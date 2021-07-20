@@ -114,7 +114,7 @@ function getAverageGoals(cb2) {
 }
 
 console.log('task 6', getAverageGoals(getFinals(fifaData)))
-
+// I did it
 
 /// 🥅 STRETCH 🥅 ///
 
